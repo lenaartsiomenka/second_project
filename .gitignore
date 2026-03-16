@@ -1,0 +1,14 @@
+# Файлы среды разработки
+.idea/
+.vscode/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.bak
+*.swp
+
+# Системные файлы
+.DS_Store  # macOS
+tmp_data.txt
+tmp_data.txt
